@@ -1,1 +1,4 @@
-/ProgramClient/.vs/
+ProgramClient/.vs/*
+.vs/
+.vs/*
+ProgramClient/.vs/
