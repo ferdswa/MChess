@@ -1,13 +1,4 @@
-.vs/
-ProgramClient/.vs/**
-ProgramClient/bin/**
-ProgramClient/obj/**/*
-ProgramClient/.vs/
-/ProgramClient/.vs/ProgramClient/v17/.suo
-/ProgramClient/.vs/ProgramClient/v17/DocumentLayout.backup.json
-/ProgramClient/.vs/ProgramClient/v17/DocumentLayout.json
-/ProgramClient/obj/Debug/net8.0-windows/ProgramClient.AssemblyInfo.cs
-/ProgramClient/obj/Debug/net8.0-windows/ProgramClient.AssemblyInfoInputs.cache
-/ProgramClient/obj/Debug/net8.0-windows/ProgramClient.assets.cache
-/ProgramClient/obj/project.nuget.cache
-/ProgramClient/obj/Debug/net8.0-windows/ProgramClient.GeneratedMSBuildEditorConfig.editorconfig
+**/.vs/**
+**/obj/**
+**/bin/**
+**/*.user
