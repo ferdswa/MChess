@@ -2,3 +2,7 @@
 ProgramClient/.vs/**
 ProgramClient/bin/**
 ProgramClient/obj/**
+ProgramClient/.vs/
+/ProgramClient/.vs/ProgramClient/v17/.suo
+/ProgramClient/.vs/ProgramClient/v17/DocumentLayout.backup.json
+/ProgramClient/.vs/ProgramClient/v17/DocumentLayout.json
