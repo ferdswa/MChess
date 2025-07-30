@@ -1,0 +1,17 @@
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\bin\Debug\net8.0-windows\ProgramClient.exe
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\bin\Debug\net8.0-windows\ProgramClient.deps.json
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\bin\Debug\net8.0-windows\ProgramClient.runtimeconfig.json
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\bin\Debug\net8.0-windows\ProgramClient.dll
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\bin\Debug\net8.0-windows\ProgramClient.pdb
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.Form1.resources
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.csproj.GenerateResource.cache
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.AssemblyInfoInputs.cache
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.AssemblyInfo.cs
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.csproj.CoreCompileInputs.cache
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.sourcelink.json
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.dll
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\refint\ProgramClient.dll
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.pdb
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ProgramClient.genruntimeconfig.cache
+C:\Users\Max\source\repos\ferdswa\MChess\ProgramClient\obj\Debug\net8.0-windows\ref\ProgramClient.dll
