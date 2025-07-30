@@ -1,3 +1,4 @@
-/.vs/*
-ProgramClient/.vs/*
-ProgramClient/.vs/
+.vs/
+ProgramClient/.vs/**
+ProgramClient/bin/**
+ProgramClient/obj/**
